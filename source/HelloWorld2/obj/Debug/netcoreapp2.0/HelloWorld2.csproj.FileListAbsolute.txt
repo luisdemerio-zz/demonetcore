@@ -1,0 +1,13 @@
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\HelloWorld2.deps.json
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\HelloWorld2.runtimeconfig.json
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\HelloWorld2.runtimeconfig.dev.json
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\HelloWorld2.dll
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.csprojResolveAssemblyReference.cache
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.csproj.CoreCompileInputs.cache
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.AssemblyInfoInputs.cache
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.AssemblyInfo.cs
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\HelloWorld2.pdb
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.dll
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp2.0\HelloWorld2.pdb
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\appsettings.development.json
+D:\dotnet core\demo\New folder\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp2.0\appsettings.json
